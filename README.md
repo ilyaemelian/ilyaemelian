@@ -35,9 +35,8 @@ Interdisciplinary research on how generative AI reshapes human cognition, amplif
 ### Currently
 
 - Writing a 30-chapter ML textbook (Part II in progress)
-- Building [ai.evo-study.com](https://ai.evo-study.com) — companion platform for ML learners
 - Preparing for Amazon Kindle publishing (Spring 2026)
 
 ### Contact
 
-**Web:** [ilyaemelianov.com](https://ilyaemelianov.com) | **Platform:** [evo-study.com](https://evo-study.com) | **Email:** info@ilyaemelianov.com
+**Web:** [ilyaemelianov.com](https://ilyaemelianov.com) | **Email:** info@ilyaemelianov.com
