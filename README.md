@@ -4,17 +4,33 @@
 
 Moscow School of Programming graduate with distinction. Python & C++ developer with experience at NASA and Yandex. Winner of the XXXIII International Space Olympiad in Physics. First Place at Yandex Corporation Capstone Defense.
 
-Currently applying to top global universities (MIT, NYU Abu Dhabi, Minerva, Georgia Tech) — seeking need-blind, full-ride scholarships.
+Research focus: AI systems, ML in production, cognitive and social effects of generative AI.
 
 ---
 
-### Books I'm Writing
+### Books
 
 **Book 1 — [AI, Cognitive Inequality, and the Illusion of Progress](https://github.com/ilyaemelian/AI-Cognitive-Inequality)**
 Interdisciplinary research on how generative AI reshapes human cognition, amplifies inequality, and creates an illusion of progress. Manuscript complete, targeting Amazon Kindle 2026.
 
 **Book 2 — [Machine Learning: Manual for the Next Generation](https://github.com/ilyaemelian/ML-Manual-Next-Generation)**
 30-chapter practical manual that trains ML architects, not operators. Real Python code, 100+ sources, production patterns. Part I complete, Part II in progress.
+
+---
+
+### Publications
+
+| Title | Type | Date | DOI | Link |
+|-------|------|------|-----|------|
+| *Competition ML vs. Production ML: A Systematic Gap Analysis* | Preprint | 2026-02-21 | `10.5281/zenodo.18721926` | [doi.org/10.5281/zenodo.18721926](https://doi.org/10.5281/zenodo.18721926) |
+| *Cognitive Inequality in the Age of Generative AI: Who Benefits and Who Falls Behind* | Preprint | 2026-02-23 | `10.5281/zenodo.18746412` | [doi.org/10.5281/zenodo.18746412](https://doi.org/10.5281/zenodo.18746412) |
+
+Both preprints are listed in ORCID: [0009-0006-7981-5748](https://orcid.org/0009-0006-7981-5748).
+
+### Research Profiles
+
+- ORCID: [0009-0006-7981-5748](https://orcid.org/0009-0006-7981-5748)
+- GitHub: [@ilyaemelian](https://github.com/ilyaemelian)
 
 ---
 
@@ -35,7 +51,7 @@ Interdisciplinary research on how generative AI reshapes human cognition, amplif
 ### Currently
 
 - Writing a 30-chapter ML textbook (Part II in progress)
-- Preparing for Amazon Kindle publishing (Spring 2026)
+- Preparing both books for Amazon Kindle publishing (2026)
 
 ### Contact
 
